@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\bin\Debug\net7.0\perevorot.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\bin\Debug\net7.0\perevorot.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\bin\Debug\net7.0\perevorot.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\bin\Debug\net7.0\perevorot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\bin\Debug\net7.0\perevorot.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\refint\perevorot.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\perevorot.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\perevorot\obj\Debug\net7.0\ref\perevorot.dll

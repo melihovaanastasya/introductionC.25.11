@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\bin\Debug\net7.0\vybor.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\bin\Debug\net7.0\vybor.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\bin\Debug\net7.0\vybor.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\bin\Debug\net7.0\vybor.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\bin\Debug\net7.0\vybor.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\refint\vybor.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\vybor.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\vybor\obj\Debug\net7.0\ref\vybor.dll

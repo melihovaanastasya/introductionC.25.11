@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\bin\Debug\net7.0\pusyr.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\bin\Debug\net7.0\pusyr.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\bin\Debug\net7.0\pusyr.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\bin\Debug\net7.0\pusyr.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\bin\Debug\net7.0\pusyr.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\refint\pusyr.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\pusyr.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\pusyr\obj\Debug\net7.0\ref\pusyr.dll

@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\bin\Debug\net7.0\binar.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\bin\Debug\net7.0\binar.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\bin\Debug\net7.0\binar.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\bin\Debug\net7.0\binar.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\bin\Debug\net7.0\binar.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\refint\binar.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\binar.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 25.11\introductionC.25.11\binar\obj\Debug\net7.0\ref\binar.dll
