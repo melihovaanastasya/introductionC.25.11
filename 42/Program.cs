@@ -7,4 +7,4 @@ bool CheckTriangle(int a, int b, int c)
 
 int a=4, b=5,c=8;
 
-if (CheckTriangle(a,b,c) System.Console.WriteLine("YES"); else System.Console.WriteLine("NO"));
+if (CheckTriangle(a,b,c)) System.Console.WriteLine("YES"); else System.Console.WriteLine("NO");
